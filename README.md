@@ -1,7 +1,7 @@
 # [📈 Live Status](https://ravyshankar.github.io/website-operations): <!--live status--> **🟩 All systems operational**
 
 This repository monitors uptime, response time, status and shows historic graphical data for [CWP Websites](https://ravyshankar.github.io/website-operations).
-This also creates [Issues in Github aka Trouble Tickets ](https://github.com/ravyshankar/website-operations/issues) and assigns it to a team or a Individual.
+/nThis also creates [Issues in Github aka Trouble Tickets ](https://github.com/ravyshankar/website-operations/issues) and assigns it to a team or a Individual.
 The [Actions](https://github.com/ravyshankar/website-operations/actions) on the issue can be tracked and used for reporting, and 
 [Pages](https://ravyshankar.github.io/website-operations) for the status page.
 
