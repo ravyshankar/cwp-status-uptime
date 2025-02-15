@@ -17,6 +17,226 @@ sites:
     url: www.sla.gov.sg
   - name: NPARKS
     url: www.nparks.gov.sg
+  - name: ACRA
+    url: www.acra.gov.sg
+  - name: AGC
+    url: www.agc.gov.sg
+  - name: LSC
+    url: www.lsc.gov.sg
+  - name: A-Star
+    url: www.a-star.edu.sg
+  - name: BCA Academy
+    url: www.bcaa.edu.sg
+  - name: BCA
+    url: www1.bca.gov.sg
+  - name: CAAS
+    url: www.caas.gov.sg
+  - name: SINGSTAT
+    url: www.singstat.gov.sg
+  - name: DSTA
+    url: www.dsta.gov.sg
+  - name: Tech Summit
+    url: www.techsummit.sg
+  - name: FA SAQ
+    url: fa-saq.edb.gov.sg
+  - name: CCCS
+    url: www.cccs.gov.sg
+  - name: Open Innovation Network
+    url: www.openinnovationnetwork.gov.sg
+  - name: The Digital Academy
+    url: www.thedigitalacademy.tech.gov.sg
+  - name: GRA
+    url: www.gra.gov.sg
+  - name: MYNICEHOME
+    url: www.mynicehome.gov.sg
+  - name: HSA
+    url: www.hsa.gov.sg
+  - name: HTX
+    url: www.htx.gov.sg
+  - name: IMDA
+    url: www.imda.gov.sg
+  - name: PDPC
+    url: www.pdpc.gov.sg
+  - name: MCCY
+    url: www.mccy.gov.sg
+  - name: IPOS
+    url: www.ipos.gov.sg
+  - name: ISEAS
+    url: www.iseas.edu.sg
+  - name: Police
+    url: www.police.gov.sg
+  - name: ITE
+    url: www.ite.edu.sg
+  - name: PowerEveryMove
+    url: www.powereverymove.gov.sg
+  - name: MTI
+    url: www.mti.gov.sg
+  - name: MSF 
+    url: www.msf.gov.sg
+  - name: ECDA
+    url: www.ecda.gov.sg
+  - name: SNTC
+    url: www.sntc.org.sg
+  - name: MUIS
+    url: www.muis.gov.sg
+  - name: CNB
+    url: www.cnb.gov.sg
+  - name: ICA
+    url: www.ica.gov.sg
+  - name: MHA
+    url: www.mha.gov.sg
+  - name: SGSECURE
+    url: www.sgsecure.gov.sg
+  - name: SCDF
+    url: www.scdf.gov.sg
+  - name: CMPB
+    url: www.cmpb.gov.sg
+  - name: MINDEF
+    url: www.mindef.gov.sg
+  - name: DEFENCEPIONEER
+    url: www.defencepioneer.sg
+  - name: PIONEERMAGAZINE
+    url: www.pioneermagazine.gov.sg
+  - name: CLC
+    url: www.clc.gov.sg
+  - name: MND
+    url: www.mnd.gov.sg
+  - name: ONESERVICE
+    url: www.oneservice.gov.sg
+  - name: WORLDCITIZENSSUMMIT
+    url: www.worldcitiessummit.com.sg
+  - name: FOUNDERSMEMORIAL
+    url: www.foundersmemorial.gov.sg
+  - name: CSIT
+    url: www.csit.gov.sg
+  - name: MOE Language Center
+    url: www.moelc.moe.edu.sg
+  - name: Schoolbag
+    url: www.schoolbag.edu.sg
+  - name: National English Movement
+    url: www.nel.moe.edu.sg
+  - name: ACE HTA
+    url: www.ace-hta.gov.sg
+  - name: Health Professionals
+    url: www.healthprofessionals.gov.sg
+  - name: NDF
+    url: www.ndf.gov.sg
+  - name: MOF
+    url: www.mof.gov.sg
+  - name: NMRC
+    url: www.nmrc.gov.sg
+  - name: NNA
+    url: www.nna.gov.sg
+  - name: Roots
+    url: www.roots.gov.sg
+  - name: MOT
+    url: www.mot.gov.sg
+  - name: MPA
+    url: www.mpa.gov.sg
+  - name: SMW
+    url: www.smw.sg
+  - name: Gogreen
+    url: www.gogreen.gov.sg
+  - name: Indian Heritage
+    url: www.indianheritage.gov.sg
+  - name: Language Councils
+    url: www.languagecouncils.sg
+  - name: Comchest
+    url: www.comchest.gov.sg
+  - name: CGS
+    url: www.cgs.gov.sg
+  - name: Cleanenvirosummit
+    url: www.cleanenvirosummit.gov.sg
+  - name: Haze
+    url: www.haze.gov.sg
+  - name: MSS-INT
+    url: www.mss-int.sg
+  - name: NEA
+    url: www.nea.gov.sg
+  - name: Public Hygiene Board
+    url: www.publichygienecouncil.sg
+  - name: NHB
+    url: www.nhb.gov.sg
+  - name: SG Heritage Festival
+    url: www.sgheritagefest.gov.sg
+  - name: Night Festival
+    url: www.nightfestival.gov.sg
+  - name: SYSNMH
+    url: www.sysnmh.org.sg
+  - name: MOE
+    url: www.moe.gov.sg
+  - name: NP
+    url: www.np.edu.sg
+  - name: RP
+    url: www.rp.edu.sg
+  - name: SP
+    url: www.sp.edu.sg
+  - name: SG Heritage Festival
+    url: www.sgheritagefest.gov.sg
+  - name: Night Festival
+    url: www.nightfestival.gov.sg
+  - name: CE NP
+    url: www.cet.np.edu.sg
+  - name: Digital for Live
+    url: www.digitalforlife.gov.sg
+  - name: Infrastructure Asia
+    url: www.infrastructureasia.org
+  - name: Istana
+    url: www.istana.gov.sg
+  - name: MFA
+    url: www.mfa.gov.sg
+  - name: MOE
+    url: www.moe.gov.sg/microsites
+  - name: PMO
+    url: www.pmo.gov.sg
+  - name: Parliament
+    url: www.parliament.gov.sg
+  - name: TAL
+    url: www.tal.sg
+  - name: Public Transport Council
+    url: www.ptc.gov.sg
+  - name: PSC
+    url: www.psc.gov.sg
+  - name: PUB
+    url: www.pub.gov.sg
+  - name: COP Pavilion
+    url: www.cop-pavilion.gov.sg
+  - name: Make for Families
+    url: www.madeforfamilies.gov.sg
+  - name: PSD Challenge
+    url: psdchallenge.psd.gov.sg
+  - name: Caring Commuters
+    url: www.caringcommuters.gov.sg
+  - name: URA
+    url: www.ura.gov.sg
+  - name: SIWW
+    url: www.siww.com.sg
+  - name: Science Center
+    url: www.science.edu.sg
+  - name: SEAB
+    url: www.seab.gov.sg
+  - name: SFA
+    url: www.sfa.gov.sg
+  - name: SFA Beta
+    url: www.beta.sfa.gov.sg
+  - name: Skills Future
+    url: www.skillsfuture.gov.sg
+  - name: TOTEBOARD
+    url: www.toteboard.gov.sg
+  - name: Asean Geospatial
+    url: www.aseangeospatial.org
+  - name: WSG
+    url: www.wsg.gov.sg
+  - name: Content Careers Future
+    url: content.mycareersfuture.gov.sg
+  - name: Yellow Ribbon
+    url: www.yellowribbon.gov.sg
+  - name: NCPG
+    url: www.ncpg.org.sg
+  - name: SGENABLE
+    url: www.sgenable.sg
+  - name: MOH
+    url: https://www.moh.gov.sg/  
     port: 80
     check: "tcp-ping"
     ipv6: false
