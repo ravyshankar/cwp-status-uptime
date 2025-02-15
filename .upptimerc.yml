@@ -4,19 +4,19 @@ repo: cwp-status-uptime # The name of this repository
 
 sites:
   - name: MHA
-    url: https://www.mha.gov.sg
+    url: www.mha.gov.sg
   - name: ICA
-    url: https://www.ica.gov.sg
+    url: www.ica.gov.sg
   - name: MFA
-    url: https://www.mfa.gov.sg
+    url: www.mfa.gov.sg
   - name: NEA
-    url: https://www.nea.gov.sg
+    url: www.nea.gov.sg
   - name: MOH
-    url: https://www.moh.gov.sg
+    url: www.moh.gov.sg
   - name: SLA
-    url: https://www.sla.gov.sg
+    url: www.sla.gov.sg
   - name: NPARKS
-    url: https://www.nparks.gov.sg
+    url: www.nparks.gov.sg
     port: 80
     check: "tcp-ping"
     ipv6: false
