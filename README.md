@@ -4,7 +4,7 @@
   - uptime,
   - response time,
   - status of the website and
-  - shows historical graphical data for .<br>
+  - shows historical data for .<br>
 - Automatically creates [Issues in Github aka Trouble Tickets ](https://github.com/ravyshankar/website-operations/issues) and assigns it to a team or a Individual.<br>
 - The [Actions](https://github.com/ravyshankar/website-operations/actions) on the issue can be tracked and used for reporting, and<br>
 - [Pages](https://ravyshankar.github.io/website-operations) for the status page.
