@@ -12,7 +12,7 @@ sites:
   - name: NEA
     url: https://www.nea.gov.sg
   - name: SLA
-    url: https://www.sla.gov.sg
+    url: https://moh.gov.sg
     port: 80
     check: "tcp-ping"
     ipv6: false
