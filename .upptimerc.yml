@@ -37,8 +37,6 @@ sites:
     url: www.dsta.gov.sg
   - name: Tech Summit
     url: www.techsummit.sg
-  - name: FA SAQ
-    url: fa-saq.edb.gov.sg
   - name: CCCS
     url: www.cccs.gov.sg
   - name: Open Innovation Network
@@ -96,7 +94,7 @@ sites:
   - name: DEFENCEPIONEER
     url: www.defencepioneer.sg
   - name: PIONEERMAGAZINE
-    url: www.pioneermagazine.gov.sg
+    url: www.defencepioneer.sg
   - name: CLC
     url: www.clc.gov.sg
   - name: MND
@@ -217,8 +215,6 @@ sites:
     url: www.seab.gov.sg
   - name: SFA
     url: www.sfa.gov.sg
-  - name: SFA Beta
-    url: www.beta.sfa.gov.sg
   - name: Skills Future
     url: www.skillsfuture.gov.sg
   - name: TOTEBOARD
@@ -235,8 +231,6 @@ sites:
     url: www.ncpg.org.sg
   - name: SGENABLE
     url: www.sgenable.sg
-  - name: MOH
-    url: https://www.moh.gov.sg/  
     port: 80
     check: "tcp-ping"
     ipv6: false
