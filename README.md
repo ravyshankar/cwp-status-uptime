@@ -1,13 +1,13 @@
 # [📈 Live Status](https://ravyshankar.github.io/cwp-status-uptime/): <!--live status--> **🟩 All systems operational**
 
 - This repository tracks [CWP Websites](https://ravyshankar.github.io/cwp-status-uptime)
-  - uptime,
-  - response time,
-  - status of the website and
-  - shows historical data for .<br>
-- Automatically creates [Issues in Github aka Trouble Tickets ](https://github.com/ravyshankar/cwp-status-uptime/issues) and assigns it to a team or a Individual.<br>
+  - uptime
+  - response time
+  - status and
+  - shows historical data.<br>
+- Automatically creates [Issues in Github aka Incident Tickets ](https://github.com/ravyshankar/cwp-status-uptime/issues) and assigns it to a team or a Individual.<br>
 - The [Actions](https://github.com/ravyshankar/cwp-status-uptime/actions) on the issue can be tracked and used for reporting, and<br>
-- [Pages](https://ravyshankar.github.io/cwp-status-uptime) for the status page.
+- [Pages](https://ravyshankar.github.io/cwp-status-uptime) for the status page with the current and past incidents.
 
 [![Uptime CI](https://github.com/ravyshankar/website-operations/workflows/Uptime%20CI/badge.svg)](https://github.com/ravyshankar/cwp-status-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/ravyshankar/website-operations/workflows/Response%20Time%20CI/badge.svg)](https://github.com/ravyshankar/cwp-status-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
