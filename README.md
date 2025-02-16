@@ -1,4 +1,4 @@
-# [📈 Live Status](https://ravyshankar.github.io/website-operations): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://ravyshankar.github.io/cwp-status-uptime/): <!--live status--> **🟩 All systems operational**
 
 - This repository tracks [CWP Websites](https://ravyshankar.github.io/cwp-status-uptime)
   - uptime,
