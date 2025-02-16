@@ -249,7 +249,7 @@ status-website:
   baseUrl:   /cwp-status-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CWP Websites Response and Up Time
-  introTitle: "**Website Operations Dashboard** can be used to monitor status, monitor status, triage with operations team to conduct daily operations."
+  introTitle: "**Website Operations Dashboard** can be used to monitor status, uptime, response time and triage with operations team to conduct daily operations."
   navbar:
     - title: Status
       href: /
