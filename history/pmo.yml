@@ -1,7 +1,7 @@
 url: www.pmo.gov.sg
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 69
-lastUpdated: 2025-02-26T02:27:00.354Z
+lastUpdated: 2025-02-26T13:08:11.767Z
 startTime: 2025-02-15T17:59:19.951Z
 generator: Upptime <https://github.com/upptime/upptime>
