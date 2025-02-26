@@ -1,7 +1,7 @@
 url: www.roots.gov.sg
-status: up
-code: 200
-responseTime: 477
-lastUpdated: 2025-02-26T02:26:27.636Z
+status: down
+code: 403
+responseTime: 189
+lastUpdated: 2025-02-26T13:07:44.557Z
 startTime: 2025-02-15T17:58:56.761Z
 generator: Upptime <https://github.com/upptime/upptime>
