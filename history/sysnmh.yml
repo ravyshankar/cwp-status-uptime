@@ -1,7 +1,7 @@
 url: www.sysnmh.org.sg
-status: up
-code: 200
-responseTime: 878
-lastUpdated: 2025-03-15T23:03:52.817Z
+status: down
+code: 403
+responseTime: 1878
+lastUpdated: 2025-03-16T23:02:55.789Z
 startTime: 2025-02-15T17:59:07.902Z
 generator: Upptime <https://github.com/upptime/upptime>
