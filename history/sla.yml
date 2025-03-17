@@ -1,7 +1,7 @@
 url: www.sla.gov.sg
-status: down
-code: 403
-responseTime: 103
-lastUpdated: 2025-03-16T23:02:15.222Z
+status: up
+code: 200
+responseTime: 618
+lastUpdated: 2025-03-17T00:10:32.372Z
 startTime: 2025-02-15T15:18:16.777Z
 generator: Upptime <https://github.com/upptime/upptime>
