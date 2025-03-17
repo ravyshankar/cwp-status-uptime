@@ -1,7 +1,7 @@
 url: www.ura.gov.sg
-status: down
-code: 403
-responseTime: 1694
-lastUpdated: 2025-03-17T21:02:52.631Z
+status: up
+code: 200
+responseTime: 3504
+lastUpdated: 2025-03-17T22:02:52.559Z
 startTime: 2025-02-15T17:59:25.003Z
 generator: Upptime <https://github.com/upptime/upptime>
