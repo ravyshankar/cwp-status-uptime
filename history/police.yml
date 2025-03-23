@@ -1,7 +1,7 @@
 url: www.police.gov.sg
-status: down
-code: 403
-responseTime: 242
-lastUpdated: 2025-03-23T12:03:35.844Z
+status: up
+code: 200
+responseTime: 131
+lastUpdated: 2025-03-23T13:05:47.952Z
 startTime: 2025-02-15T17:58:28.872Z
 generator: Upptime <https://github.com/upptime/upptime>
