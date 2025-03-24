@@ -196,19 +196,19 @@
     "url": "www.a-star.edu.sg",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "a-star",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "95.78%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.74%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.89%",
-    "time": 449,
-    "timeDay": 578,
-    "timeWeek": 436,
-    "timeMonth": 360,
-    "timeYear": 449,
+    "time": 470,
+    "timeDay": 774,
+    "timeWeek": 539,
+    "timeMonth": 396,
+    "timeYear": 470,
     "dailyMinutesDown": {
-      "2025-03-24": 61
+      "2025-03-24": 62
     }
   },
   {
@@ -572,18 +572,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ite",
     "status": "down",
-    "uptime": "94.37%",
+    "uptime": "94.16%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "70.22%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "94.37%",
+    "uptimeWeek": "69.03%",
+    "uptimeMonth": "92.87%",
+    "uptimeYear": "94.16%",
     "time": 399,
     "timeDay": 0,
     "timeWeek": 167,
     "timeMonth": 194,
     "timeYear": 399,
     "dailyMinutesDown": {
-      "2025-03-24": 1084,
+      "2025-03-24": 1204,
       "2025-03-23": 1440,
       "2025-03-22": 478
     }
