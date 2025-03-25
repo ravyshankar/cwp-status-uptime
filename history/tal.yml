@@ -1,7 +1,7 @@
 url: www.tal.sg
-status: up
-code: 200
-responseTime: 645
-lastUpdated: 2025-03-23T23:04:42.570Z
+status: down
+code: 403
+responseTime: 436
+lastUpdated: 2025-03-25T02:29:53.650Z
 startTime: 2025-02-15T17:59:20.739Z
 generator: Upptime <https://github.com/upptime/upptime>
