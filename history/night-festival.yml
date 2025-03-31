@@ -1,7 +1,7 @@
 url: www.nightfestival.gov.sg
-status: up
-code: 200
-responseTime: 85
-lastUpdated: 2025-03-30T23:05:25.956Z
+status: down
+code: 403
+responseTime: 1546
+lastUpdated: 2025-03-31T16:04:07.082Z
 startTime: 2025-02-15T17:59:07.490Z
 generator: Upptime <https://github.com/upptime/upptime>
