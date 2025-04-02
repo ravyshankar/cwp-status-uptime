@@ -1,7 +1,7 @@
 url: www.sp.edu.sg
-status: up
-code: 200
-responseTime: 169
-lastUpdated: 2025-04-02T11:03:16.205Z
+status: down
+code: 403
+responseTime: 1363
+lastUpdated: 2025-04-02T23:03:24.906Z
 startTime: 2025-02-15T17:59:11.634Z
 generator: Upptime <https://github.com/upptime/upptime>
