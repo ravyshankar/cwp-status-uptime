@@ -1,7 +1,7 @@
-url: www.moe.gov.sg/microsites
-status: up
-code: 200
-responseTime: 55
-lastUpdated: 2025-04-03T23:04:52.493Z
+url: www.moe.gov.sg
+status: down
+code: 403
+responseTime: 119
+lastUpdated: 2025-04-04T16:03:51.709Z
 startTime: 2025-02-15T17:59:10.042Z
 generator: Upptime <https://github.com/upptime/upptime>
