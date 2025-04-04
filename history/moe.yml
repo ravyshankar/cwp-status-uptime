@@ -1,7 +1,7 @@
 url: www.moe.gov.sg
-status: down
-code: 403
-responseTime: 119
-lastUpdated: 2025-04-04T16:03:51.709Z
+status: up
+code: 200
+responseTime: 182
+lastUpdated: 2025-04-04T17:03:32.085Z
 startTime: 2025-02-15T17:59:10.042Z
 generator: Upptime <https://github.com/upptime/upptime>
