@@ -1,7 +1,7 @@
 url: www.languagecouncils.sg
-status: up
-code: 200
-responseTime: 1016
-lastUpdated: 2025-04-15T23:04:01.808Z
+status: down
+code: 403
+responseTime: 1848
+lastUpdated: 2025-04-16T12:04:55.283Z
 startTime: 2025-02-15T17:58:59.423Z
 generator: Upptime <https://github.com/upptime/upptime>
