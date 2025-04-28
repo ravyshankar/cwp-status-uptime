@@ -1,7 +1,7 @@
 url: www.nhb.gov.sg
-status: down
-code: 404
-responseTime: 1382
-lastUpdated: 2025-04-27T23:04:44.260Z
+status: up
+code: 200
+responseTime: 39
+lastUpdated: 2025-04-28T00:11:24.545Z
 startTime: 2025-02-15T17:59:06.514Z
 generator: Upptime <https://github.com/upptime/upptime>
